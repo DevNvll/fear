@@ -1,0 +1,11 @@
+seja hello = "Hello World";
+
+fn add(a, b) {
+  retorna a + b;
+}
+
+print(hello);
+
+seja resultado = add(1,2);
+
+print("O resultado é", resultado);
